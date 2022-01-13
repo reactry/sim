@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sim/static/css/main.c7bf6d8a.css",
+    "main.js": "/sim/static/js/main.b4f02e7f.js",
+    "static/js/787.3daef9dc.chunk.js": "/sim/static/js/787.3daef9dc.chunk.js",
+    "index.html": "/sim/index.html",
+    "main.c7bf6d8a.css.map": "/sim/static/css/main.c7bf6d8a.css.map",
+    "main.b4f02e7f.js.map": "/sim/static/js/main.b4f02e7f.js.map",
+    "787.3daef9dc.chunk.js.map": "/sim/static/js/787.3daef9dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7bf6d8a.css",
+    "static/js/main.b4f02e7f.js"
+  ]
+}
